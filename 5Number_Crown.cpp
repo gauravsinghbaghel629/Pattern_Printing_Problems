@@ -25,7 +25,7 @@ int main(){
         
         int end = i;
         while(end){
-            cout<<end;
+            cout<<end; 
             end--;
         }
         cout<<endl;
